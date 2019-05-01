@@ -3,7 +3,9 @@ package BasicClass;
 /**
  * @author:leedom
  * @date: 4/16/19 10:03 PM
- * Description:
+ * Description:两个单链表相交的一系列问题,首先,单链表可能有环,也可能无环
+ *              (做法一:采用hashmap这种数据结构来做;做法二:采用快指针和慢指针,快指针首先一次走两步,慢指针一次走一步,两者相遇时,快指针回到开头,大家都走一步,相遇的时候就是相交的第一个节点)
+ *             然后讨论相交的问题
  * License: (C)Copyright 2019
  */
 public class FindFirstIntersectNode {

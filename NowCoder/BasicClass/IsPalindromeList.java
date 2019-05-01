@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * @author:leedom
  * @date: 4/16/19 9:17 PM
- * Description:
+ * Description:判断一个链表是否为回文结构,即正着读和反着读,结果是一样的
  * License: (C)Copyright 2019
  */
 public class IsPalindromeList {

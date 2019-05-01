@@ -1,4 +1,3 @@
-package BasicClass;
 
 /**
  * @author:leedom

@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * @author:leedom
  * @date: 4/16/19 9:49 PM
- * Description:
+ * Description:复制含有随机指针节点的链表
  * License: (C)Copyright 2019
  */
 public class CopyListWithRandom {
@@ -19,6 +19,11 @@ public class CopyListWithRandom {
         }
     }
 
+    /**
+     * 使用空间来解决这个问题
+     * @param head
+     * @return
+     */
     public static Node copyListWithRand1(Node head) {
         HashMap<Node, Node> map = new HashMap<Node, Node>();
         Node cur = head;
@@ -35,6 +40,11 @@ public class CopyListWithRandom {
         return map.get(head);
     }
 
+    /**
+     * 不使用额外的数据结构来做,首先整合成一个大链表,然后将其分离出来
+     * @param head
+     * @return
+     */
     public static Node copyListWithRand2(Node head) {
         if (head == null) {
             return null;

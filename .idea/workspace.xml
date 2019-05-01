@@ -5,13 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de4d15e-28e4-47a5-b35d-2af5ecf5907b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NowCoder/Sixty_Six_Topic/ArrayContainsNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Myself/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/CompleteTreeNodeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/IsBSTAndFBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/IsBalancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/SerializeAndReconstrucTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NowCoder/BasicClass/SuccessorNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/PrintMatrixSpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NowCoder/BasicClass/ZigZagPrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/NowCoder/BasicClass/ZigZagPrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BasicClass/PrintMatrixSpiralOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BasicClass/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BasicClass/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BasicClass/ZigZagPrintMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BasicClass/ZigZagPrintMatrix.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1352448981">
@@ -23,17 +47,18 @@
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.57" value="2" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.71" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="1" />
-          <entry key="java" value="64" />
+          <entry key="java" value="82" />
           <entry key="md" value="1" />
           <entry key="py" value="2" />
         </counts>
@@ -41,7 +66,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="64" />
+          <entry key="JAVA" value="82" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="1" />
         </counts>
@@ -49,15 +74,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="70" />
-          <entry key="java" value="54662" />
+          <entry key="java" value="58034" />
           <entry key="md" value="423" />
-          <entry key="txt" value="121" />
+          <entry key="txt" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="54662" />
-          <entry key="PLAIN_TEXT" value="614" />
+          <entry key="JAVA" value="58034" />
+          <entry key="PLAIN_TEXT" value="632" />
         </counts>
       </usages-collector>
     </session>
@@ -65,58 +90,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/BinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5025">
-              <caret line="339" column="5" selection-start-line="339" selection-start-column="5" selection-end-line="339" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/PrintBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/Dijkstra.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Myself/MyComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Company/huawei/Count_ASCII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Company/huawei/Sort_with_0.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -124,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Company/MOGU/SymmetricBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="346">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#452#453#0" expanded="true" />
                 <element signature="e#482#483#0" expanded="true" />
@@ -134,20 +111,111 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NowCoder/Sixty_Six_Topic/ArrayContainsNumber.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SuccessorNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+            <state relative-caret-position="274">
+              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding>
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SerializeAndReconstrucTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#757#765#0" expanded="true" />
+                <element signature="e#1438#1444#0" expanded="true" />
+                <element signature="e#2189#2195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/IsBalancedTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+              <folding>
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/IsBSTAndFBT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="72" column="24" lean-forward="true" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#1488#1494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/CompleteTreeNodeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding>
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="121" column="33" lean-forward="true" selection-start-line="121" selection-start-column="33" selection-end-line="121" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/PreInPosTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="112" column="26" lean-forward="true" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#1187#1193#0" expanded="true" />
+                <element signature="e#1780#1786#0" expanded="true" />
+                <element signature="e#2356#2362#0" expanded="true" />
+                <element signature="e#2404#2410#0" expanded="true" />
+                <element signature="e#3065#3071#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,6 +238,7 @@
       <find>preOrderUnRecur</find>
       <find>infixOrderNoRecur</find>
       <find>infixOrderUnRecur</find>
+      <find>getLeftMost</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -179,14 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sort/com/leedom/InfixToSuffix.java" />
-        <option value="$PROJECT_DIR$/Sort/com/leedom/Queue.java" />
-        <option value="$PROJECT_DIR$/Sort/com/leedom/OneWayQueue.java" />
-        <option value="$PROJECT_DIR$/Sort/com/leedom/PriorityQueue.java" />
-        <option value="$PROJECT_DIR$/dynamicPlanning/demo2.py" />
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/Array.java" />
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/MyArray.java" />
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/ArrayTest.java" />
         <option value="$PROJECT_DIR$/test/test/MyArrayTest.java" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/ArrayStack.java" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/KMPmatch.java" />
@@ -215,21 +276,29 @@
         <option value="$PROJECT_DIR$/LeetCode/EatBanana.java" />
         <option value="$PROJECT_DIR$/NowCoder/BasicClass/DogAndCatQueue.java" />
         <option value="$PROJECT_DIR$/NowCoder/BasicClass/DogAndCatQueueExample.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/PrintMatrixSpiralOrder.java" />
         <option value="$PROJECT_DIR$/NowCoder/BasicClass/RotateMatrix.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/ZigZagPrintMatrix.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java" />
         <option value="$PROJECT_DIR$/NowCoder/BasicClass/PalindromeList.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java" />
-        <option value="$PROJECT_DIR$/NowCoder/BasicClass/ReverseList.java" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/BinaryTree.java" />
         <option value="$PROJECT_DIR$/NowCoder/BasicClass/PrintBinaryTree.java" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/Dijkstra.java" />
         <option value="$PROJECT_DIR$/Company/MOGU/SymmetricBinaryTree.java" />
         <option value="$PROJECT_DIR$/NowCoder/Sixty_Six_Topic/ArrayContainsNumber.java" />
+        <option value="$PROJECT_DIR$/Myself/MyDate.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/ReverseList.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/ZigZagPrintMatrix.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/PrintMatrixSpiralOrder.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/PrintCommonPart.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/PreInPosTraversal.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/SuccessorNode.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/SerializeAndReconstrucTree.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/IsBalancedTree.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/IsBSTAndFBT.java" />
+        <option value="$PROJECT_DIR$/NowCoder/BasicClass/CompleteTreeNodeNumber.java" />
       </list>
     </option>
   </component>
@@ -270,13 +339,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Company" type="462c0819:PsiDirectoryNode" />
+              <item name="MOGU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Company" type="462c0819:PsiDirectoryNode" />
+              <item name="MOGU" type="462c0819:PsiDirectoryNode" />
+              <item name="SymmetricBinaryTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -294,17 +380,21 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///work/Algorithm/JingDong/Main1.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556550683376" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556642427205" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/test" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.ivy2/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.7.16.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -335,36 +425,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayContainsNumber">
-    <configuration name="ArrayContainsNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sixty_Six_Topic.ArrayContainsNumber" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sixty_Six_Topic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IsPalindromeList">
     <configuration name="BubbleSort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.leedom.BubbleSort" />
       <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leedom.Dijkstra" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leedom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -382,8 +446,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicClass.PrintBinaryTree" />
+    <configuration name="MyDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyDate" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintCommonPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicClass.PrintCommonPart" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -395,9 +466,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SymmetricBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SymmetricBinaryTree" />
+    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicClass.ReverseList" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicClass.RotateMatrix" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -448,19 +538,19 @@
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Python.demo2" />
       <item itemvalue="Python.demo1" />
+      <item itemvalue="Application.MyDate" />
+      <item itemvalue="Application.ReverseList" />
+      <item itemvalue="Application.RotateMatrix" />
+      <item itemvalue="Application.PrintCommonPart" />
       <item itemvalue="Application.IsPalindromeList" />
-      <item itemvalue="Application.PrintBinaryTree" />
-      <item itemvalue="Application.Dijkstra" />
-      <item itemvalue="Application.SymmetricBinaryTree" />
-      <item itemvalue="Application.ArrayContainsNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayContainsNumber" />
-        <item itemvalue="Application.SymmetricBinaryTree" />
-        <item itemvalue="Application.Dijkstra" />
-        <item itemvalue="Application.PrintBinaryTree" />
         <item itemvalue="Application.IsPalindromeList" />
+        <item itemvalue="Application.PrintCommonPart" />
+        <item itemvalue="Application.RotateMatrix" />
+        <item itemvalue="Application.ReverseList" />
+        <item itemvalue="Application.MyDate" />
       </list>
     </recent_temporary>
   </component>
@@ -538,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556549063800</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="66题的第一道,有规律的二维数组">
+      <created>1556550717022</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556550717022</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -554,7 +651,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22593476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22911695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -563,16 +660,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32847896" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960223" weight="0.24595469" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988067" weight="0.36731392" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49960223" weight="0.32847896" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49801114" visible="true" weight="0.43365696" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49801114" weight="0.43365696" />
       <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.32847896" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32847896" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019889" side_tool="true" visible="true" weight="0.43365696" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32847896" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.44822007" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019889" side_tool="true" weight="0.24595469" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49960223" weight="0.32847896" />
+      <window_info anchor="bottom" id="Debug" order="11" visible="true" weight="0.3106796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.3293556" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -658,7 +755,8 @@
     <MESSAGE value="最新博客上的一批数据结构和算法,代码部分集合" />
     <MESSAGE value="update" />
     <MESSAGE value="更新了蘑菇街一面遇到的对称二叉树的题目,主要就是利用到递归的一个思想" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了蘑菇街一面遇到的对称二叉树的题目,主要就是利用到递归的一个思想" />
+    <MESSAGE value="66题的第一道,有规律的二维数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="66题的第一道,有规律的二维数组" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -687,6 +785,12 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -695,51 +799,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sort/com/leedom/LinkedListTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/Sort/com/leedom/InfixToSuffixTest.java" />
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="144" column="9" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/InfixToSuffix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3915">
-          <caret line="281" column="37" selection-start-line="281" selection-start-column="37" selection-end-line="281" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicPlanning/demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/ArrayTest.java" />
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/OneWayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -908,62 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/PrintMatrixSpiralOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/RotateMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/ZigZagPrintMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="127" column="38" lean-forward="true" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="43" column="42" lean-forward="true" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="117" column="32" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="89" column="41" lean-forward="true" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5025">
@@ -980,7 +983,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -990,14 +993,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Myself/MyComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Company/huawei/Count_ASCII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="180">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
@@ -1009,10 +1012,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/Sixty_Six_Topic/ArrayContainsNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myself/MyDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/com/leedom/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/ZigZagPrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/PrintMatrixSpiralOrder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/PrintCommonPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/IsPalindromeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="91" column="40" lean-forward="true" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
+          <folding>
+            <element signature="e#1176#1182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SmallEqualBigger_Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/CopyListWithRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/FindFirstIntersectNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="121" column="33" lean-forward="true" selection-start-line="121" selection-start-column="33" selection-end-line="121" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/PreInPosTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="112" column="26" lean-forward="true" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#1187#1193#0" expanded="true" />
+            <element signature="e#1780#1786#0" expanded="true" />
+            <element signature="e#2356#2362#0" expanded="true" />
+            <element signature="e#2404#2410#0" expanded="true" />
+            <element signature="e#3065#3071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Company/MOGU/SymmetricBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="346">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#452#453#0" expanded="true" />
             <element signature="e#482#483#0" expanded="true" />
@@ -1020,17 +1136,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/FindNumInSortedMatrix.java">
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SuccessorNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="274">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NowCoder/Sixty_Six_Topic/ArrayContainsNumber.java">
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/SerializeAndReconstrucTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="195">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#757#765#0" expanded="true" />
+            <element signature="e#1438#1444#0" expanded="true" />
+            <element signature="e#2189#2195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/IsBalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/IsBSTAndFBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="72" column="24" lean-forward="true" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#1488#1494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowCoder/BasicClass/CompleteTreeNodeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1110,6 +1275,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>commons-lang3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

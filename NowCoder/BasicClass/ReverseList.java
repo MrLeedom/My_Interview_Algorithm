@@ -25,7 +25,7 @@ public class ReverseList {
             pre = head;
             head = next;
         }
-        return pre;
+        return head;
     }
 
     public static class DoubleNode {

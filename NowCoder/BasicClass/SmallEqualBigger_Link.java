@@ -3,7 +3,7 @@ package BasicClass;
 /**
  * @author:leedom
  * @date: 4/16/19 9:36 PM
- * Description:
+ * Description:用单向链表按某值划分成左边小\中间相等\右边大的形式
  * License: (C)Copyright 2019
  */
 public class SmallEqualBigger_Link {

@@ -3,7 +3,7 @@ package BasicClass;
 /**
  * @author:leedom
  * @date: 4/16/19 9:04 PM
- * Description:
+ * Description:在行列都拍好序的矩阵中找数
  * License: (C)Copyright 2019
  */
 public class FindNumInSortedMatrix {
