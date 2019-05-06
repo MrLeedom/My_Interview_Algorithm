@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python">
-      <configuration sdkName="Python 3.6 (Algorithm)" />
+      <configuration sdkName="Python 3.6" />
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -16,10 +16,11 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Myself" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Company/MOGU" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Company" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Python 3.6 (Algorithm) interpreter library" level="application" />
+    <orderEntry type="library" exported="" name="Python 3.6 interpreter library" level="application" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
