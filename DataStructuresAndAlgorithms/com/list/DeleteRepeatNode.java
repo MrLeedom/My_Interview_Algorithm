@@ -9,15 +9,7 @@ import java.util.HashSet;
  *      采用哈希表来做
  * License: (C)Copyright 2019
  */
-class Node {
-    int value;
-    Node next;
 
-    public Node(int value) {
-        this.value = value;
-        this.next = null;
-    }
-}
 public class DeleteRepeatNode {
     /*
     这一块主要是要将列表中重复的元素进行删除,所以涉及到链表指针的相关操作
