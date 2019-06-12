@@ -6,17 +6,18 @@ package offer;
  * Description:给定一个二叉树和其中一个结点,请找出中序遍历的下一个节点并且返回.注意:树中的结点不仅包含左右子节点,同时包含指向父节点的指针
  * License: (C)Copyright 2019
  */
-class TreeLinkNode{
-    int val;
-    TreeLinkNode left = null;
-    TreeLinkNode right = null;
-    TreeLinkNode next = null;
 
-    TreeLinkNode(int val) {
-        this.val = val;
-    }
-}
 public class Question8 {
+    static class TreeLinkNode{
+        int val;
+        TreeLinkNode left = null;
+        TreeLinkNode right = null;
+        TreeLinkNode next = null;
+
+        TreeLinkNode(int val) {
+            this.val = val;
+        }
+    }
     public static TreeLinkNode getNext(TreeLinkNode node) {
         if(node == null) {
             return null;
