@@ -15,13 +15,9 @@ public class InsertSort {
         for(int i = 1; i < array.length; i++) {
             int value = array[i];
             int j = i - 1;
-            for(; j >= 0; j--) {
-                if(array[j] > value) {
-                    //数据搬移
-                    array[j+1] = array[j];
-                }else{
-                    break;
-                }
+            for(; j >= 0 && array[j] > value; j--) {
+                //数据搬移
+                array[j+1] = array[j];
             }
             array[j+1] = value;
         }
