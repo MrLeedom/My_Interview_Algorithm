@@ -17,7 +17,7 @@ import java.util.List;
  *          {0，1，1，1，1}----->{1,0,1,1,1} or {1,1,1,0,1}必须要遍历才能得到
  *
  *      时间复杂度分析：
- *
+ *          类似折半查找，所以时间复杂度是O(logN)
  * License: (C)Copyright 2019
  */
 public class Question14 {
