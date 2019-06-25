@@ -4,7 +4,8 @@ package offer;
  * @author:leedom
  * @date:2019/6/23 21:34
  * Description:     打印从1到最大的n位数
- * 输入数字n，按顺序打印出从1到最大的n位十进制数
+ * 输入数字n，按顺序打印出从1到最大的n位十进制数,从前往后输出,0010,1110,看看数据的结构再来尝试
+ *      其实这个也有点暴力破解的味道!!!
  * License: (C)Copyright 2019
  */
 public class Question20 {
@@ -43,15 +44,15 @@ public class Question20 {
         while (index < number.length && number[index] == '0') {
             index ++;
         }
-        while (index < number.length)
+        while (index < number.length){
             System.out.print(number[index++]);
-
+        }
         System.out.println();
 
     }
     
     public static void main(String[] args) {
-            printNumber(4);
+//            printNumber(4);
             printToMaxOfDigits(4);
     }
 }
