@@ -2,8 +2,6 @@ package book;
 
 import java.util.Scanner;
 
-import static org.apache.commons.lang3.ArrayUtils.swap;
-
 /**
  * @author:leedom
  * @date: 6/22/19 2:45 PM
@@ -82,7 +80,7 @@ public class TencentQ3 {
         for(int k = 1; k <= n+1; k++) {
             for (int j = 1; j <= n+1-k; j++) {
                 if(a[j].value > a[j+1].value) {
-                    swap(a,j,j+1);
+//                    swap(a,j,j+1);
                 }
             }
         }
