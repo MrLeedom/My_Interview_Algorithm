@@ -8,8 +8,8 @@ package offer;
  */
 public class TreeNode {
     int value;
-    TreeNode right;
-    TreeNode left;
+    TreeNode right = null;
+    TreeNode left = null;
 
     public TreeNode() {
         this.value = 0;
@@ -17,9 +17,7 @@ public class TreeNode {
         this.left = new TreeNode();
     }
 
-    public TreeNode(int val, TreeNode right, TreeNode left) {
+    public TreeNode(int val) {
         this.value = val;
-        this.right = right;
-        this.left = left;
     }
 }

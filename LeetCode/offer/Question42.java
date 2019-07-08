@@ -31,7 +31,7 @@ public class Question42 {
         pre = node;
         if(head == null) {
             head = node;
-            inOrder(node.right);
         }
+        inOrder(node.right);
     }
 }
