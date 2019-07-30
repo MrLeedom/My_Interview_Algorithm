@@ -33,9 +33,6 @@ public class Test2 {
             list.add(m.group().substring(1, m.group().length()-1));
         }
 
-
-
-
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
         String output = "";
