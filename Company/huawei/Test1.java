@@ -1,3 +1,4 @@
+package huawei;
 /**
  * @author:leedom
  * @date: 4/10/19 7:05 PM
@@ -9,7 +10,6 @@
  */
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.SortedMap;
 import java.util.Vector;
 
 public class Test1 {
