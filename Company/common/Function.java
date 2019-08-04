@@ -40,7 +40,7 @@ public class Function {
      * 打印数组元素,打印效果：1 2 3 4 5，最后还有一句换行操作
      * @param array
      */
-    public static void printArray(int[] array) {
+    public void printArray(int[] array) {
         if(array==null){
             return;
         }
@@ -247,22 +247,22 @@ public class Function {
         return Arrays.copyOfRange(arr,i,j + 1);
     }
     public static void main(String[] args) {
-        System.out.println(jointArray(3, 89));
-        int[] array = {1,9,3,4,5};
-        printArray(localArray(array, 0, 3));
-        printArray(array);
-        reverseArray(array);
-        printArray(array);
-        Arrays.sort(array);//数组排序
-        printArray(array);
-        swap(array, 1, 2);
-        printArray(array);
-
-        ArrayList <String> list=new ArrayList <String>();
-        list.add("1");
-        list.add("95");
-        reverseList(list);
-        System.out.println(list.toString());
+//        System.out.println(jointArray(3, 89));
+//        int[] array = {1,9,3,4,5};
+//        printArray(localArray(array, 0, 3));
+//        printArray(array);
+//        reverseArray(array);
+//        printArray(array);
+//        Arrays.sort(array);//数组排序
+//        printArray(array);
+//        swap(array, 1, 2);
+//        printArray(array);
+//
+//        ArrayList <String> list=new ArrayList <String>();
+//        list.add("1");
+//        list.add("95");
+//        reverseList(list);
+//        System.out.println(list.toString());
 
     }
 }
