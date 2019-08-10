@@ -1,3 +1,4 @@
+package JingDong;
 import java.util.Scanner;
 
 /**
