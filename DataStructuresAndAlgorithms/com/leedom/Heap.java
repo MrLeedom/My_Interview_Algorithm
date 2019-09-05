@@ -123,7 +123,7 @@ public class Heap {
         System.out.println("heapArray(array format):");
         for(int i = 0; i < currentSize; i++) {
             if(heapArray[i] != null) {
-                System.out.println(heapArray[i].getKey() + " ");
+                System.out.print(heapArray[i].getKey() + " ");
             } else {
                 System.out.println("--");
             }

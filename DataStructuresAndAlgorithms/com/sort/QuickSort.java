@@ -46,7 +46,7 @@ public class QuickSort {
         //而基准元素选的是array[left],即第一个元素,所有左游标从第二个元素开始比较
         int i = left;
         int j = right + 1;
-        //基准元素
+        //基准元素，选择了左侧的元素
         int pivot = array[left];
         while (true) {
             while(i < right && array[++i] < pivot ) {}
@@ -68,8 +68,8 @@ public class QuickSort {
     /**********************************************  测试部分  ********************************************************************/
     public static void main(String[] args){
         int testTimes = 2000;
-        int size = 100;
-        int value = 100;
+        int size = 10;
+        int value = 10;
         boolean succeed = true;
         for (int i = 0; i < testTimes ; i++) {
             int[] array = generateRandomArray(size, value);

@@ -5,12 +5,13 @@ package com.list;
  * @date: 6/11/19 1:56 PM
  * Description:   经典题目  :   单链表反转
  *      输入一个链表,反转链表后,输出链表的所有元素,反转链表的关键点
+ *    要去深刻理解下链表中涉及到的类似指针的思想，你就直接把左边当成未知，右边怎么指你就怎么去。
  * License: (C)Copyright 2019
  */
 public class ReverseList {
-    public Node reverse(Node head) throws Exception{
+    public Node reverse(Node head) {
         if(head == null || head.next == null) {
-            throw new RuntimeException("list don't need to reverse!");
+            return head;
         }
         Node pre = null;
         Node next = null;
@@ -23,7 +24,7 @@ public class ReverseList {
         return pre;
     }
     
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) {
         Node node1 = new Node(1);
         Node node2 = new Node(2);
         Node node3 = new Node(3);
