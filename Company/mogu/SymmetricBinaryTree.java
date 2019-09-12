@@ -1,4 +1,4 @@
-package MOGU;
+package mogu;
 
 /**
  * @author:leedom

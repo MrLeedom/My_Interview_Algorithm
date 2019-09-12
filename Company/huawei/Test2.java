@@ -16,13 +16,6 @@ import java.util.regex.Pattern;
  */
 public class Test2 {
     public static void main(String[] args){
-//        String string = "abc2(a)7{a8(s7[j]d)fg}";
-//        Pattern p = Pattern.compile("[0-9a-zA-Z]+");
-//        Matcher m = p.matcher(string);
-//        while(m.find()){
-//            System.out.println(m.group());
-//        }
-//
         String msg = "abc2(a)7{a8(s7[j]d)fg}";
         List<String> list=new ArrayList<String>();
         String str1 = "(?<=\\\\《)[^\\\\》]+";
