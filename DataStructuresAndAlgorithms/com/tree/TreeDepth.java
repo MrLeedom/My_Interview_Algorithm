@@ -38,7 +38,10 @@ public class TreeDepth {
     }
 
     public static void main(String[] args) {
-        TreeNode root = TreeNode.buildTree();
-        System.out.println(findDeep(root));
+        while(true) {
+            TreeNode root = TreeNode.buildTree();
+            System.out.println(findDeep(root));
+        }
+
     }
 }
