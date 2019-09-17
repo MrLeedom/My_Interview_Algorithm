@@ -6,7 +6,8 @@ import java.util.Arrays;
  @description :      经典排序，堆排序
  堆是一棵完全二叉树；
  堆中每个节点的值都必须大于等于（或小于等于）其子树中每个节点的值
- 完全二叉树比较适合用数组来存储，用数组来存储完全二叉树是非常节省存储空间的，因为我们不需要存储左右子节点的指针，单纯地通过数组的下标，就可以找到一个节点的左右节点和父节点。
+ 完全二叉树比较适合用数组来存储，用数组来存储完全二叉树是非常节省存储空间的，因为我们不需要存储左右子节点的指针，
+ 单纯地通过数组的下标，就可以找到一个节点的左右节点和父节点。
  @author      :    caoshipeng
  @copyright   :    华为技术有限公司（C），版权所有  2019-2020
  @modified    :    2019-09-04 17:46  caoshipeng  create
@@ -29,7 +30,9 @@ class Heap {
      * 插入一个元素到堆中，从下往上
      */
     public void insert(int data) {
-        if(count >= n) return;
+        if(count >= n) {
+            return;
+        }
         ++count;
         a[count] = data;
         int i = count;
@@ -43,7 +46,9 @@ class Heap {
      * 删除堆顶元素
      */
     public void removeMax() {
-        if(count == 0) return;
+        if(count == 0) {
+            return;
+        }
         a[1] = a[count];
         --count;
         heapify(a, count, 1);
@@ -58,9 +63,15 @@ class Heap {
     private void heapify(int[] a, int n, int i) {
         while(true) {
             int maxPos = i;
-            if(i*2 <= n && a[i] < a[i*2]) maxPos = i*2;
-            if(i*2+1 <= n && a[maxPos] < a[i*2+1]) maxPos = i*2 + 1;
-            if(maxPos == i) break;
+            if(i*2 <= n && a[i] < a[i*2]) {
+                maxPos = i*2;
+            }
+            if(i*2+1 <= n && a[maxPos] < a[i*2+1]) {
+                maxPos = i*2 + 1;
+            }
+            if(maxPos == i) {
+                break;
+            }
             swap(a, i, maxPos);
             i = maxPos;
         }
