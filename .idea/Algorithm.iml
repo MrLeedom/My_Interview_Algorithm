@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Myself" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Company" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
