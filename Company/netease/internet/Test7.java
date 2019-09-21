@@ -8,7 +8,7 @@ import java.util.Scanner;
  @copyright   :    华为技术有限公司（C），版权所有  2019-2020
  @modified    :    2019-09-21 16:02  caoshipeng  create
  ****************************************************************************/
-public class Tset7 {
+public class Test7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
