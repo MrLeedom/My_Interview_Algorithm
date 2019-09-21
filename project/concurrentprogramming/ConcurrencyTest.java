@@ -11,6 +11,8 @@ public class ConcurrencyTest {
     private static final long count = 100001;
     
     public static void main(String[] args) throws InterruptedException{
+        double a = 5/2;
+        System.out.println(a);
         //并发计算
         concurrency();
         //单线程计算
