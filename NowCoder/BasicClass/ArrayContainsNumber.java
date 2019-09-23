@@ -1,4 +1,4 @@
-package Sixty_Six_Topic;
+package BasicClass;
 
 /**
  * @author:leedom
